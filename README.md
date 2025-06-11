@@ -1,43 +1,50 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-<h1 style="text-align: center; font-weight: bold;">
-  Hi👋🏻, I'm Ayesha (SilentProgrammer‑max)
-</h1>
+<div align="center">
+  <h1>
+    Hi👋🏻, I'm Ayesha (SilentProgrammer‑max)
+  </h1>
 
-<h3 style="text-align: center; font-weight: bold; margin-left:-00px;">
-  <i class="fas fa-robot" style="color:green;"></i> AI Researcher &nbsp;
-  <i class="fas fa-chart-line"style="color:skyblue;"></i> Data Scientist &nbsp;
-  <i class="fas fa-code" style="color:orange;"></i> Full‑Stack Developer &nbsp;
-  <i class="fas fa-hourglass-half" style="color:GRAY;"></i> Time Hacker
-</h3>
-
-
+  <h3>
+    🤖 AI Researcher &nbsp;
+    📈 Data Scientist &nbsp;
+    💻 Full‑Stack Developer &nbsp;
+    ⏳ Time Hacker
+  </h3>
+</div>
 
 <p align="center">
   <img class="hoverable" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Smart+Tech+for+a+Smarter+World.;Automating+Everything+with+Code.;Designing+Time+Hacking+Machines.;Welcome+to+My+Universe." />
 </p>
 
+  <h2 style="margin-top: 30px;">Visitor Counter</h2>
+    <img src="https://komarev.com/ghpvc/?username=SilentProgrammer-max&style=flat-square&color=brightgreen&base=48000"
+         alt="Visitor Counter"
+         style="width: 160px; height: 25px;" />
+
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
   
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
   
-  <!-- Left: Text Section -->
-<div style="flex: 1; min-width: 300px;">
-  <h3 style="margin-top: 0; margin-left:15px">About Me</h3>
-  <ul style="padding-left: 20px; margin-top: 10px;">
-    <li>I’m currently focused on: <code class="code-glow">Software development</code>, <code class="code-glow">Data Science</code>, <code class="code-glow">AI/ML</code>, <code class="code-glow">GitHub Automation</code></li>
-    <li>Building: <code class="code-glow">AI Resume Analyzer</code>, <code class="code-glow">Ayesha OSINT Toolkit</code>, <code class="code-glow">Automated ML Dashboards</code></li>
-    <li>Learning: <code class="code-glow">Advanced Machine Learning</code>, <code class="code-glow">LLMs</code>, <code class="code-glow">Full Stack AI Apps</code></li>
-    <li>Open to collaborate on: <code class="code-glow">Open Source</code>, <code class="code-glow">Research</code>, <code class="code-glow">Freelancing</code>, <code class="code-glow">Impact Projects</code></li>
-    <li>Fact: I run my brand under <strong>AyeshaTechX</strong> — Future. Now.</li>
-  </ul>
-</div>
-
-
-  <!-- Right: Image Section -->
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="assets/coding-girl-animation-fe7t4gejurmtof8v.webp" alt="Coding Animation"  class="coding-girl-img" style="max-width: 100%; height: auto; border-radius: 12px;" />
-  </div>
-</div>
+<table>
+  <tr>
+    <!-- Left Column: About Me -->
+    <td style="vertical-align: top; width: 50%;">
+      <h3>About Me</h3>
+      <ul>
+        <li>I’m currently focused on: <code>Software development</code>, <code>Data Science</code>, <code>AI/ML</code>, <code>GitHub Automation</code></li>
+        <li>Building: <code>AI Resume Analyzer</code>, <code>Ayesha OSINT Toolkit</code>, <code>Automated ML Dashboards</code></li>
+        <li>Learning: <code>Advanced Machine Learning</code>, <code>LLMs</code>, <code>Full Stack AI Apps</code></li>
+        <li>Open to collaborate on: <code>Open Source</code>, <code>Research</code>, <code>Freelancing</code>, <code>Impact Projects</code></li>
+        <li>Fact: I run my brand under <strong>AyeshaTechX</strong> — Future. Now.</li>
+      </ul>
+    </td>
+  <td style="vertical-align: top; width: 60%;">
+      <p align="center">
+        <img src="assets/coding-girl-animation-fe7t4gejurmtof8v.webp" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Tech Stack Section -->
   <div style="margin-top: 40px;">
@@ -85,6 +92,36 @@
       <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
     </div>
   </div>
+
+<h2>Connect with Me</h2>
+<p align="center">
+
+  <a href="https://facebook.com/your-link">
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoWidth=30&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/your-link">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoWidth=30&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/your-telegram">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoWidth=30&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/your-twitter">
+    <img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoWidth=30&logoColor=white" />
+  </a>
+
+  <a href="mailto:ayeshadatascientist9@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoWidth=30&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/SilentProgrammer-max">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoWidth=30&logoColor=white" />
+  </a>
+
+</p>
+
 
 
 <!-- Projects Section -->
@@ -173,25 +210,6 @@
 
 <p align="center">
   <img class="hoverable" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%" alt="Snake Game SVG" />
-</p>
-
-<hr />
-
-<h2>Connect with Me</h2>
-<p class="connect-links" align="center">
-  <a href="https://facebook.com/your-link"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/your-link"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://t.me/your-telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://x.com/your-twitter"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="mailto:ayeshadatascientist9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/SilentProgrammer-max"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a
-</p>
-
-<hr />
-
-<h2 style="text-align:center; margin-top: 40px;">Visitor Counter</h2>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SilentProgrammer-max&style=flat-square&color=brightgreen&base=48000" alt="Profile Views"/>
 </p>
 
 
