@@ -96,19 +96,19 @@
 <h2>Connect with Me</h2>
 <p align="center">
 
-  <a href="https://facebook.com/your-link">
+  <a href="https://www.facebook.com/ayeshatechx">
     <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoWidth=30&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/your-link">
+  <a href="https://www.instagram.com/ayesha_tech_x/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoWidth=30&logoColor=white" />
   </a>
 
-  <a href="https://t.me/your-telegram">
+  <a href="https://t.me/AyeshaTechX">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoWidth=30&logoColor=white" />
   </a>
 
-  <a href="https://x.com/your-twitter">
+  <a href="https://x.com/AyeshaTechX">
     <img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=x&logoWidth=30&logoColor=white" />
   </a>
 
