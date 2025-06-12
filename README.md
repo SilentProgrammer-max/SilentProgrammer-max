@@ -296,13 +296,21 @@
 <p align="center">
   <img src="assets/metrics.plugin.pagespeed.detailed.svg" alt="ISO Calendar Example" width="600">
 </p>
-
-
-
-
-<p align="center">
-  <img class="hoverable" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%" alt="Snake Game SVG" />
+<p align="left">
+  <img src="assets/metrics.plugin.reactions.svg" alt="ISO Calendar Example" width="600">
 </p>
+<p align="left">
+  <img src="assets/metrics.plugin.skyline.city.svg" alt="ISO Calendar Example" width="500" height="200"j>
+</p>
+<div>
+  <span align="left">
+    <img src="assets/metrics.plugin.skyline.svg" alt="ISO Calendar Example" width="500" height="200">
+  </span>
+  <span align="right">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%"/>
+  </span>
+</div>
+
 
 
 <p align="center"><strong>Designed by AyeshaTechX | Built for Greatness</strong></p
