@@ -152,73 +152,40 @@
 
 </p>
 <!-- Projects Section -->
-<div style="margin-top: 60px;">
-  <h3 style="margin-bottom: 20px; text-align: left;">Projects I’m Proud Of</h3>
+<h3>Projects I’m Proud Of</h3>
 
-<!-- Projects Container -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<table border="0">
+  <tr>
+   <!-- Project 1 -->
+    <td align="center">
+      <h4>Ayesha OSINT Toolkit</h4>
+      <img src="https://cdn.dribbble.com/userupload/10543014/file/original-4703d0ba72b72f87fa49a618a24a1f6d.gif" width="200" height="140" alt="Project 1"><br>
+      <p>Python-based OSINT tool for tracking digital footprints and analyzing social data. Ideal for investigations and ethical hacking.</p>
+    </td>
 
-  <!-- Single Card Template -->
- <div style="background-color: #101010; color: #fff; border-radius: 16px; padding: 15px; width: 250px; box-shadow: 0 0 15px rgba(0,0,0,0.4); transition: 0.3s; cursor: pointer;"
-         class="card"
-         onmouseover="this.style.backgroundColor='#171515';"
-         onmouseout="this.style.backgroundColor='#101010';">
-      
-  <div style="text-align: center;">
-    <img src="https://cdn.dribbble.com/userupload/10543014/file/original-4703d0ba72b72f87fa49a618a24a1f6d.gif"
-             alt="Project 1"
-             style="width: 200px; height: 140px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
-        <h4 style="margin-bottom: 8px;">Ayesha OSINT Toolkit</h4>
-        <p style="font-size: 14px;">Python-based OSINT tool for tracking digital footprints and analyzing social data. Ideal for investigations and ethical hacking.</p>
-      </div>
-    </div>
+<!-- Project 2 -->
+  <td align="center">
+      <h4>AI Resume Analyzer</h4>
+      <img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif" width="200" height="140" alt="Project 2"><br>
+      <p>AI-powered tool that gives instant resume feedback using NLP & ML for job-readiness, ATS check, and improvement suggestions.</p>
+    </td>
 
- <!-- Card 2 -->
- <div style="background-color: #101010; color: #fff; border-radius: 16px; padding: 15px; width: 250px; box-shadow: 0 0 15px rgba(0,0,0,0.4); transition: 0.3s; cursor: pointer;"
-         class="card"
-         onmouseover="this.style.backgroundColor='#171515';"
-         onmouseout="this.style.backgroundColor='#101010';">
-      
-  <div style="text-align: center;">
-       <img src="https://cdn.pixabay.com/animation/2023/04/12/16/59/16-59-39-387_512.gif"
-             alt="Project 2"
-             style="width: 200px; height: 140px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
-        <h4 style="margin-bottom: 8px;">AI Resume Analyzer</h4>
-        <p style="font-size: 14px;">AI-powered tool that gives instant resume feedback using NLP & ML for job-readiness, ATS check, and improvement suggestions.</p>
-      </div>
-    </div>
+<!-- Project 3 -->
+  <td align="center">
+      <h4>ML Auto‑Dashboard</h4>
+      <img src="https://cdn-icons-gif.flaticon.com/10971/10971749.gif" width="200" height="140" alt="Project 3"><br>
+      <p>Coming Soon... Upload datasets & get instant ML-based charts, EDA reports, and predictions. Great for analysts and data teams.</p>
+    </td>
 
- <!-- Card 3 -->
-<div style="background-color: #101010; color: #fff; border-radius: 16px; padding: 15px; width: 250px; box-shadow: 0 0 15px rgba(0,0,0,0.4); transition: 0.3s; cursor: pointer;"
-         class="card"
-         onmouseover="this.style.backgroundColor='#171515';"
-         onmouseout="this.style.backgroundColor='#101010';">
-      
-   <div style="text-align: center;">
-        <img src="https://cdn-icons-gif.flaticon.com/10971/10971749.gif"
-             alt="Project 3"
-             style="width: 200px; height: 140px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
-        <h4 style="margin-bottom: 8px;">ML Auto‑Dashboard</h4>
-        <p style="font-size: 14px;">Coming Soon... Upload datasets & get instant ML-based charts, EDA reports, and predictions. Great for analysts and data teams.</p>
-      </div>
-    </div>
- <!-- Card 4 -->
-<div style="background-color: #101010; color: #fff; border-radius: 16px; padding: 15px; width: 250px; box-shadow: 0 0 15px rgba(0,0,0,0.4); transition: 0.3s; cursor: pointer;"
-         class="card"
-         onmouseover="this.style.backgroundColor='#171515';"
-         onmouseout="this.style.backgroundColor='#101010';">
-      
-  <div style="text-align: center;">
-        <img src="https://media.lordicon.com/icons/wired/lineal/2512-artificial-intelligence-ai-alt.gif"
-             alt="Project 4"
-             style="width: 200px; height: 140px; object-fit: cover; border-radius: 12px; margin-bottom: 12px;">
-        <h4 style="margin-bottom: 8px;">Full‑Stack AI Web App</h4>
-        <p style="font-size: 14px;">Coming Soon... Powerful full-stack AI app with NLP, login system, API integration, and sleek UI. Ideal for real-world AI startups.</p>
-      </div>
-    </div>
+<!-- Project 4 -->
+  <td align="center">
+      <h4>Full‑Stack AI Web App</h4>
+      <img src="https://media.lordicon.com/icons/wired/lineal/2512-artificial-intelligence-ai-alt.gif" width="200" height="140" alt="Project 4"><br>
+      <p>Coming Soon... Powerful full-stack AI app with NLP, login system, API integration, and sleek UI. Ideal for real-world AI startups.</p>
+    </td>
+  </tr>
+</table>
 
-  </div>
-</div>
 
 
 <p align="center">
