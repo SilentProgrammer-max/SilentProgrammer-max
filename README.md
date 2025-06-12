@@ -129,6 +129,10 @@
     </div>
   </div>
 
+  <p align="center">
+  <img class="hoverable" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Game SVG" />
+</p>
+
 <h2>Connect with Me</h2>
 <p align="center">
 
@@ -157,8 +161,6 @@
   </a>
 
 </p>
-
-
 
 <!-- Projects Section -->
 <div style="margin-top: 60px;">
