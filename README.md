@@ -235,8 +235,17 @@
 <h2 style="text-align: center;">GitHub Stats</h2>
 
 <p align="center" class="hoverable">
-  <img class="hoverable1" src="https://github-readme-stats.vercel.app/api?username=SilentProgrammer-max&show_icons=true&theme=github_dark&hide_border=true&border_radius=12"/>
-  <img class="hoverable2" src="https://streak-stats.demolab.com?user=SilentProgrammer-max&theme=github-dark&hide_border=true&border_radius=12" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SilentProgrammer-max&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" width="450" height="200" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=SilentProgrammer-max&theme=github-dark&hide_border=true&border_radius=12" width="450" height="200" />
+    </td>
+  </tr>
+</table>
+
   <img class="hoverable3" src="https://github-readme-activity-graph.vercel.app/graph?username=SilentProgrammer-max&theme=github-dark&area=true&hide_border=true" />
 </p>
 
