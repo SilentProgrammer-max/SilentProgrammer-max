@@ -274,10 +274,18 @@
 
 <h2 style="text-align: center;">Contribution Charts</h2>
 <p align="center">
-  <img src="assets/example-isocalendar (1).svg" alt="ISO Calendar Example" width="700">
+  <img src="assets/example-isocalendar (1).svg" alt="ISO Calendar Example" width="800">
 </p>
 <p align="center">
-  <img src="assets/example-isocalendar.svg" alt="ISO Calendar Example" width="700">
+  <img src="assets/example-isocalendar.svg" alt="ISO Calendar Example" width="800">
+</p>
+
+<h2 style="text-align: center;">My Game</h2>
+<p align="center">
+  <img src="assets/metrics.plugin.chess.svg" alt="ISO Calendar Example" width="700">
+</p>
+<p align="center">
+  <img src="assets/metrics.contributors.svg" alt="ISO Calendar Example" width="900">
 </p>
 
 
