@@ -55,40 +55,54 @@
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" width="50" />
+  <a href="https://www.python.org/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="50" width="50" />
   </a>
-  <a href="https://www.javascript.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="48" width="60" />
+  <a href="https://www.javascript.com/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="60" width="60" />
   </a>
-  <a href="https://www.w3.org/html/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="48" width="60" />
+  <a href="https://www.w3.org/html/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="60" width="60" />
   </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="48" width="60" />
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="60" width="60" />
   </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="48" width="60" />
+  <a href="https://getbootstrap.com/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="60" width="60" />
   </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="48" width="60" />
+  <a href="https://www.mysql.com/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="60" width="60" />
   </a>
-  <a href="https://git-scm.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="48" width="60" />
+  <a href="https://git-scm.com/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="60" width="60" />
   </a>
-  <a href="https://github.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="48" width="60" />
+  <a href="https://github.com/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="60" width="60" />
   </a>
-  <a href="https://reactjs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="48" width="60" />
+  <a href="https://reactjs.org/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="60" width="60" />
   </a>
-  <a href="https://nodejs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="48" width="60" />
+  <a href="https://nodejs.org/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="60" width="60" />
   </a>
-  <a href="https://jupyter.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="48" width="50" />
+  <a href="https://jupyter.org/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="60" width="60" />
+  </a>
+  <a href="https://www.tensorflow.org/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="60" width="60" />
+  </a>
+  <a href="https://code.visualstudio.com/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" width="60" />
+  </a>
+  <a href="https://www.linux.org/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="60" width="60" />
+  </a>
+  <a href="https://pandas.pydata.org/" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="60" width="60" />
   </a>
 </p>
+
+
 
 
 
@@ -278,6 +292,35 @@
 </p>
 
 
-<p align="center"><strong>Designed by AyeshaTechX | Built for Greatness</strong></p>
+<p align="center"><strong>Designed by AyeshaTechX | Built for Greatness</strong></p
+
+<!-- Belarus - My Home-->
+  
+ ```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "",
+       "coordinates": [
+         [
+           [72.80, 33.65],
+           [72.90, 33.65],
+           [72.90, 33.75],
+           [72.80, 33.75],
+           [72.80, 33.65]
+         ]
+       ]
+     }
+   }
+ ]
+}
+```                                                                                  
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/assets/Bottom_down.svg" />
