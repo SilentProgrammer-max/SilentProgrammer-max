@@ -21,35 +21,35 @@
 
 <p align="center">
   <!-- Static Profile Views -->
-  <img src="https://img.shields.io/badge/Profile_Views-48,000-brightgreen?style=plastic&logo=GitHub" alt="Profile Views" style="height: 23px;"/>
+  <img src="https://img.shields.io/badge/Profile_Views-48,000-brightgreen?style=plastic&logo=GitHub" alt="Profile Views" style="height: 20px;"/>
 
   <!-- Status Badge -->
   <a href="https://github.com/BEPb/BEPb">
-    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg?style=plastic" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg?style=plastic" style="height: 20px;" />
   </a>
 
   <!-- Python Version -->
   <a href="https://github.com/python/cpython">
-    <img src="https://img.shields.io/badge/Python-3.12-FF1493.svg?style=plastic" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/Python-3.12-FF1493.svg?style=plastic" style="height: 20px;" />
   </a>
 
   <!-- Contributors -->
   <a href="https://github.com/BEPb/BEPb/graphs/contributors">
-    <img src="https://img.shields.io/badge/Contributors-5-blue?style=plastic&logo=GitHub" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/Contributors-5-blue?style=plastic&logo=GitHub" style="height: 20px;" />
   </a>
 
   <!-- Static Stars -->
   <a href="https://github.com/BEPb/BEPb/stargazers">
-    <img src="https://img.shields.io/badge/Stars-73-yellow?style=plastic&logo=GitHub" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/Stars-73-yellow?style=plastic&logo=GitHub" style="height: 20px;" />
   </a>
 
   <!-- Static Forks -->
   <a href="https://github.com/BEPb/BEPb/network/members">
-    <img src="https://img.shields.io/badge/Forks-10-blue?style=plastic&logo=GitHub" style="height: 23px;" />
+    <img src="https://img.shields.io/badge/Forks-10-blue?style=plastic&logo=GitHub" style="height: 20px;" />
   </a>
 
   <!-- Static Visitor Badge -->
-  <img src="https://img.shields.io/badge/Visitors-25,432-brightgreen?style=plastic&" alt="visitors" style="height: 23px;" />
+  <img src="https://img.shields.io/badge/Visitors-25,432-brightgreen?style=plastic&" alt="visitors" style="height: 20px;" />
 </p>
 
 
