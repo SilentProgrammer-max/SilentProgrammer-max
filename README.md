@@ -310,7 +310,10 @@
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="900"/>
   </span>
 </div>
-
+metrics.plugin.stargazers.chartist
+  <span align="center">
+    <img src="assets/metrics.plugin.stargazers.chartist.svg" alt="ISO Calendar Example" width="900">
+  </span>
 
 
 <p align="center"><strong>Designed by AyeshaTechX | Built for Greatness</strong></p
