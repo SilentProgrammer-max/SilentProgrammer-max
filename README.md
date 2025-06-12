@@ -54,7 +54,42 @@
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="48" width="50" />
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="48" width="60" />
+  </a>
+  <a href="https://www.w3.org/html/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="48" width="60" />
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="48" width="60" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="48" width="60" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg" height="48" width="60" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="48" width="60" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="48" width="60" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="48" width="60" />
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="48" width="60" />
+  </a>
+  <a href="https://jupyter.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="48" width="50" />
+  </a>
+</p>
+
 
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
@@ -118,14 +153,6 @@
       <img src="https://skillicons.dev/icons?i=actix" alt="Actix" />
       <img src="https://skillicons.dev/icons?i=adonis" alt="Adonis" />
       <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
-      <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
-      <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo" />
-      <img src="https://skillicons.dev/icons?i=arch" alt="Arch Linux" />
-      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
-      <img src="https://skillicons.dev/icons?i=cmake" alt="CMake" />
-      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-      <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
     </div>
   </div>
 
