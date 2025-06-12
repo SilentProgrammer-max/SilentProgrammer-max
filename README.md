@@ -59,65 +59,65 @@
   
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
   
-<table>
-  <tr>
-    <!-- Left Column: About Me -->
-    <td style="vertical-align: top; width: 50%;">
-      <h3>About Me</h3>
-      <ul>
-        <li>I’m currently focused on: <code>Software development</code>, <code>Data Science</code>, <code>AI/ML</code>, <code>GitHub Automation</code></li>
-        <li>Building: <code>AI Resume Analyzer</code>, <code>Ayesha OSINT Toolkit</code>, <code>Automated ML Dashboards</code></li>
-        <li>Learning: <code>Advanced Machine Learning</code>, <code>LLMs</code>, <code>Full Stack AI Apps</code></li>
-        <li>Open to collaborate on: <code>Open Source</code>, <code>Research</code>, <code>Freelancing</code>, <code>Impact Projects</code></li>
-        <li>Fact: I run my brand under <strong>AyeshaTechX</strong> — Future. Now.</li>
-      </ul>
-    </td>
-  <td style="vertical-align: top; width: 60%;">
-      <p align="center">
-        <img src="assets/coding-girl-animation-fe7t4gejurmtof8v.webp" />
-      </p>
-    </td>
-  </tr>
-</table>
+<h3>About Me</h3>
+<div>
+  <!-- Image on the Right -->
+  <img src="assets/coding-girl-animation-fe7t4gejurmtof8v.webp" alt="Coding Girl" width="500" align="right">
+
+  <!-- Text on the Left -->
+  <p align="left">
+    <ul>
+      <li>I’m currently focused on: <code>Software development</code>, <code>Data Science</code>, <code>AI/ML</code>, <code>GitHub Automation</code></li>
+      <li>Building: <code>AI Resume Analyzer</code>, <code>Ayesha OSINT Toolkit</code>, <code>Automated ML Dashboards</code></li>
+      <li>Learning: <code>Advanced Machine Learning</code>, <code>LLMs</code>, <code>Full Stack AI Apps</code></li>
+      <li>Open to collaborate on: <code>Open Source</code>, <code>Research</code>, <code>Freelancing</code>, <code>Impact Projects</code></li>
+      <li>Fact: I run my brand under <strong>AyeshaTechX</strong> — Future. Now.</li>
+    </ul>
+  </p>
+</div>
+
+<!-- Spacer -->
+<br><br><br><br>
 
 <!-- Tech Stack Section -->
-  <div style="margin-top: 40px;">
-    <h3>Tech Stack & Tools</h3>
-    <div class="icon-container">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-      <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
-      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-      <img src="https://skillicons.dev/icons?i=react" alt="React" />
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" />
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-      <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-      <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
-      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-      <img src="https://skillicons.dev/icons?i=c" alt="C" />
-      <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-      <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
-      <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
-      <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-      <img src="https://skillicons.dev/icons?i=atom" alt="Atom" />
-      <img src="https://skillicons.dev/icons?i=apple" alt="Apple" />
-      <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" />
-      <img src="https://skillicons.dev/icons?i=activitypub" alt="ActivityPub" />
-      <img src="https://skillicons.dev/icons?i=clion" alt="CLion" />
-      <img src="https://skillicons.dev/icons?i=actix" alt="Actix" />
-      <img src="https://skillicons.dev/icons?i=adonis" alt="Adonis" />
-      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
-    </div>
+<div style="margin-top: 40px;">
+  <h3 align="center">Tech Stack & Tools</h3>
+  <div align="center" class="icon-container">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
+    <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" />
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
+    <img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" />
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=blender" alt="Blender" />
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+    <img src="https://skillicons.dev/icons?i=atom" alt="Atom" />
+    <img src="https://skillicons.dev/icons?i=apple" alt="Apple" />
+    <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" />
+    <img src="https://skillicons.dev/icons?i=activitypub" alt="ActivityPub" />
+    <img src="https://skillicons.dev/icons?i=clion" alt="CLion" />
+    <img src="https://skillicons.dev/icons?i=actix" alt="Actix" />
+    <img src="https://skillicons.dev/icons?i=adonis" alt="Adonis" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" />
   </div>
+</div>
+
 
   <p align="center">
   <img class="hoverable" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg" width="80%" alt="Snake Game SVG" />
