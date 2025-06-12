@@ -312,7 +312,7 @@
 </div>
 metrics.plugin.stargazers.chartist
   <span align="center">
-    <img src="assets/metrics.plugin.stargazers.chartist.svg" alt="ISO Calendar Example" width="900">
+    <img src="assets/metrics.plugin.stargazers.chartist.svg" alt="ISO Calendar Example" width="500">
   </span>
 
 
