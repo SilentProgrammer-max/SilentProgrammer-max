@@ -274,9 +274,12 @@
 
 <h2 style="text-align: center;">Contribution Charts</h2>
 <p align="center">
-
-
+  <img src="assets/example-isocalendar (1).svg" alt="ISO Calendar Example" width="700">
 </p>
+<p align="center">
+  <img src="assets/example-isocalendar.svg" alt="ISO Calendar Example" width="700">
+</p>
+
 
 
 
