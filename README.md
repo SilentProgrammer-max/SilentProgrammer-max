@@ -151,6 +151,37 @@
   </a>
 
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++"/>
+
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+
+  <!-- Data & ML Tools -->
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+
+  <!-- Version Control & Platforms -->
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
 <!-- Projects Section -->
 <h3>Projects I’m Proud Of</h3>
 
