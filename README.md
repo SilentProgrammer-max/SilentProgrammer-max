@@ -62,7 +62,7 @@
 <h3>About Me</h3>
 <div>
   <!-- Image on the Right -->
-  <img src="assets/coding-girl-animation-fe7t4gejurmtof8v.webp" alt="Coding Girl" width="400" align="right">
+  <img src="assets/coding-girl-animation-fe7t4gejurmtof8v.webp" alt="Coding Girl" width="300" align="right">
 
   <!-- Text on the Left -->
   <p align="left">
