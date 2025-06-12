@@ -17,10 +17,45 @@
   <img class="hoverable" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Smart+Tech+for+a+Smarter+World.;Automating+Everything+with+Code.;Designing+Time+Hacking+Machines.;Welcome+to+My+Universe." />
 </p>
 
-  <h2 style="margin-top: 30px;">Visitor Counter</h2>
-    <img src="https://komarev.com/ghpvc/?username=SilentProgrammer-max&style=flat-square&color=brightgreen&base=48000"
-         alt="Visitor Counter"
-         style="width: 160px; height: 25px;" />
+<h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">Visitor Counter</h2>
+
+<p align="center">
+  <!-- Static Profile Views -->
+  <img src="https://img.shields.io/badge/Profile_Views-48,000-brightgreen?style=plastic&logo=GitHub" alt="Profile Views" style="height: 23px;"/>
+
+  <!-- Status Badge -->
+  <a href="https://github.com/BEPb/BEPb">
+    <img src="https://img.shields.io/badge/status-updating-brightgreen.svg?style=plastic" style="height: 23px;" />
+  </a>
+
+  <!-- Python Version -->
+  <a href="https://github.com/python/cpython">
+    <img src="https://img.shields.io/badge/Python-3.12-FF1493.svg?style=plastic" style="height: 23px;" />
+  </a>
+
+  <!-- Contributors -->
+  <a href="https://github.com/BEPb/BEPb/graphs/contributors">
+    <img src="https://img.shields.io/badge/Contributors-5-blue?style=plastic&logo=GitHub" style="height: 23px;" />
+  </a>
+
+  <!-- Static Stars -->
+  <a href="https://github.com/BEPb/BEPb/stargazers">
+    <img src="https://img.shields.io/badge/Stars-73-yellow?style=plastic&logo=GitHub" style="height: 23px;" />
+  </a>
+
+  <!-- Static Forks -->
+  <a href="https://github.com/BEPb/BEPb/network/members">
+    <img src="https://img.shields.io/badge/Forks-10-blue?style=plastic&logo=GitHub" style="height: 23px;" />
+  </a>
+
+  <!-- Static Visitor Badge -->
+  <img src="https://img.shields.io/badge/Visitors-25,432-brightgreen?style=plastic&" alt="visitors" style="height: 23px;" />
+</p>
+
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 40px; flex-wrap: wrap;">
   
