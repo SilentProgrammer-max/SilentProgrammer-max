@@ -314,7 +314,7 @@
     <img src="assets/metrics.plugin.stargazers.chartist.svg" alt="ISO Calendar Example" width="900">
   </span>
     <span align="center">
-    <img src="assets/metrics.plugin.stargazers.worldmap.svg" alt="ISO Calendar Example" width="900">
+    <img src="assets/metrics.plugin.stargazers.worldmap.svg" alt="ISO Calendar Example" width="700">
   </span>
 <span align="center">
     <img src="assets/metrics.svg" alt="ISO Calendar Example" width="900">
