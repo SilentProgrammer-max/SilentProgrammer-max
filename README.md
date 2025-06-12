@@ -316,9 +316,9 @@
     <span align="center">
     <img src="assets/metrics.plugin.stargazers.worldmap.svg" alt="ISO Calendar Example" width="900">
   </span>
-<span align="center">
-    <img src="assets/metrics.svg" alt="ISO Calendar Example" width="500" align="center">
-  </span>
+<p align="center">
+  <img src="assets/metrics.svg" alt="ISO Calendar Example" width="500">
+</p>
 
 <p align="center"><strong>Designed by AyeshaTechX | Built for Greatness</strong></p
 
