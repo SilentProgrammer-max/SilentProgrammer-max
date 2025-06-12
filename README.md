@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img class="hoverable" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Smart+Tech+for+a+Smarter+World.;Automating+Everything+with+Code.;Designing+Time+Hacking+Machines.;Welcome+to+My+Profile." />
+  <img class="hoverable" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Building+Smart+Tech+for+a+Smarter+World.;Automating+Everything+with+Code.;Designing+Time+Hacking+Machines.;Welcome+to+My+Profile.;Programmer+under+18+years+old." />
 </p>
 
 <h2 align="left" style="margin-top: 30px; margin-bottom: 10px;">Visitor Counter</h2>
