@@ -300,14 +300,14 @@
   <img src="assets/metrics.plugin.reactions.svg" alt="ISO Calendar Example" width="600">
 </p>
 <p align="left">
-  <img src="assets/metrics.plugin.skyline.city.svg" alt="ISO Calendar Example" width="500" height="200"j>
+  <img src="assets/metrics.plugin.skyline.city.svg" alt="ISO Calendar Example" width="900" height="200">
 </p>
 <div>
-  <span align="left">
-    <img src="assets/metrics.plugin.skyline.svg" alt="ISO Calendar Example" width="500" height="200">
+  <span align="center">
+    <img src="assets/metrics.plugin.skyline.svg" alt="ISO Calendar Example" width="900" height="200>
   </span>
-  <span align="right">
-    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%"/>
+  <span align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="900"/>
   </span>
 </div>
 
