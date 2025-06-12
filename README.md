@@ -94,12 +94,6 @@
   <a href="https://code.visualstudio.com/" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="60" width="60" />
   </a>
-  <a href="https://www.linux.org/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="60" width="60" />
-  </a>
-  <a href="https://pandas.pydata.org/" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="60" width="60" />
-  </a>
 </p>
 
 
